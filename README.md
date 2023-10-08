@@ -1,0 +1,2 @@
+# Pioglitazona
+Rota sintética 
